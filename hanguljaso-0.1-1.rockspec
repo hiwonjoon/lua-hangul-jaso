@@ -13,7 +13,7 @@ package = "hanguljaso"
     license = "MIT"
  }
  dependencies = {
-    "lua ~> 5.1",
+    "lua >= 5.1",
 	"luautf8 >= 0.1.1"
     -- If you depend on other rocks, add them here
  }
